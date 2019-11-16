@@ -1,3 +1,7 @@
+"""
+Author: Ben
+Date: 11/16/2019
+"""
 import math
 
 
